@@ -1,8 +1,4 @@
-// import * as All from "./main.js"
-// console.log(All.as())
-// console.log(All.a)
-// console.log(All.default())
-////////////////////////////////////////////
+
 // Letters
 const letters = "abcdefghijklmnopqrstuvwxyz";
 
